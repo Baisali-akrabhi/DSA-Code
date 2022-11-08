@@ -73,7 +73,7 @@ function reverse(str)
 }
  
 // Driver Code
-let s = "".split("");
+let s = "Baishaly".split("");
  
 // Call reverse method
 reverse(s);
@@ -81,4 +81,5 @@ reverse(s);
 // Print the reversed string
 console.log("Reversed string is " +
                s.join(""));
- 
+
+
